@@ -1,0 +1,33 @@
+/* .container{
+    overflow: hidden;
+} */
+.container {
+    text-decoration: none;
+    border-radius: 5px;
+    width: 100%;
+    padding: 15px;
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-2);
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    transition: background,color, var(--transition-1);
+    cursor: pointer;
+}
+.container:hover{
+    color: var(--text-1);
+    background-color: var(--fill-3);
+}
+.icon_container{
+    width: 20px;
+    height: 20px;
+    color: var(--text-2);
+    transition: color, var(--transition-1);
+}
+.container:hover .icon_container{
+    color: var(--text-1);
+}
+#active{
+    background-color: var(--fill-3);
+}

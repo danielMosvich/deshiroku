@@ -1,0 +1,18 @@
+.container{
+    background-color: var(--fill-2);
+    width: 280px;
+    height: 100vh;
+    border-right: 1px solid var(--border-1);
+    padding: 20px;
+    /* background-color: red; */
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.ul{
+    list-style: none;
+    display: grid;
+    gap: 10px;
+}
+
+
