@@ -10,9 +10,15 @@ import "./flickity.css";
 function Carousel(){
     return(
         <Flickity>
-            <div><img src="https://i.pinimg.com/236x/5f/0e/86/5f0e867325cd896a661645b80e1bb60f.jpg" /></div>
-            <div><img src="https://i.pinimg.com/236x/5f/0e/86/5f0e867325cd896a661645b80e1bb60f.jpg" /></div>
-            <div><img src="https://i.pinimg.com/236x/5f/0e/86/5f0e867325cd896a661645b80e1bb60f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
+            <div><img src="https://i.pinimg.com/236x/67/e4/4a/67e44ad2aee040b297489fa4207ac69f.jpg" /></div>
         </Flickity>
     )
 }
